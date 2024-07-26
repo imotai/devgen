@@ -16,4 +16,4 @@ This repository is for feedback only. To get early access to Devgen:
 1. Visit [devgen.xyz](https://devgen.xyz)
 2. Follow the instructions to request early access
 
-Thank you for helping improve DevGen!
+Thank you for helping improve Devgen!
