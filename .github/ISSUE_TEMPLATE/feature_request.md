@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for devgen
-title: feat: 
+title: 'feat: '
 labels: enhancement
 assignees: imotai
 
