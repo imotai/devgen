@@ -1,9 +1,9 @@
 ---
 name: Feature request
-about: Suggest an idea for DevGen
+about: Suggest an idea for devgen
 title: '[FEATURE] '
 labels: enhancement
-assignees: ''
+assignees: 'imotai'
 
 ---
 
