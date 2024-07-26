@@ -7,7 +7,7 @@ Welcome to the official feedback repository for [Devgen](https://devgen.xyz), th
 This repository is dedicated to:
 
 1. [Bug reports](https://github.com/imotai/devgen_feedback/issues/new?assignees=imotai&labels=bug&projects=&template=bug_report.md&title=)
-2. [Feature requests](https://github.com/yourusername/devgen-feedback/issues/new?labels=enhancement&template=feature_request.md)
+2. [Feature requests](https://github.com/imotai/devgen_feedback/issues/new?assignees=imotai&labels=enhancement&projects=&template=feature_request.md&title=feat%3A+)
 
 ## Getting DevGen
 
