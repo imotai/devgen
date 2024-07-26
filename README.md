@@ -1,4 +1,4 @@
-# Devgen Feedback
+# Devgen
 
 Welcome to the official feedback repository for [Devgen](https://devgen.xyz), the Chrome extension that lets you chat with your GitHub repository side by side.
 
